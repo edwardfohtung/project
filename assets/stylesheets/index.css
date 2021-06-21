@@ -1,0 +1,163 @@
+header {
+  height: 70px;
+  box-sizing: border-box;
+  display: flex;
+  width: 100%;
+  background-color: aquamarine;
+  font-size: xx-large;
+  padding: 20px;
+  position: fixed;
+  z-index: 10;
+} 
+.lugertel {
+  flex: 1;
+}
+.contact {
+  flex:1;
+}
+.section-one {
+  height: 300px;
+  background-color: lavender;
+  font-size: 80px;
+  display: flex;
+  text-align: center;
+  padding-top: 69px;
+}
+.learining {
+  width: 70%;
+}
+.class {
+  width: 30%;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
+  padding: 20px;
+  background-color: lightskyblue;
+}
+.courses {
+  height: 450px;
+  display: flex;
+}
+.front, .back, .devops {
+  height: 250px;
+  width: 425px;
+}
+p {
+  font-size: 40px;
+  font-weight: 90;
+}
+li {
+  font-weight: bold;
+  text-indent: 30px;
+}
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 80px;
+  text-align: center;
+  border-top: 4px solid;
+  background-color: lightskyblue;
+}
+.testimonials {
+  height: 200px;  
+  display: flex;
+  overflow: hidden;
+}
+.male {
+  height: 100px;
+  width: 150px;
+  float: left;
+
+}
+.female {
+  height: 100px;
+  width: 150px;
+  float: left;
+}
+.fixed {
+  border: 2px solid #e1e;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  z-index: 8;
+  background-color: white;
+
+}
+.more {
+  padding: 38px;
+  
+}
+.first, .second {
+  flex: 1;
+}
+h4 {
+  text-align: center;
+  font-size: 80px;
+  background-color:lightblue;
+}
+.section-five {
+  display: flex;
+  z-index: 5;
+}
+.loca-1, .loca-2{
+  width: 50%;
+  height: 200px;
+  display: inline-block;
+  background-color: teal;
+  padding: 40px;
+}
+.loca-2 {
+  position: relative;
+  text-align: center;
+}
+.lugertels {
+  position: absolute;
+  bottom:  0;
+  left: 0;
+  height: 60px;
+  padding: 40px;
+  border: 2px solid;
+}
+.school {
+  position: absolute;
+  top: 5px;
+  right: 2px;
+  height: 60px;
+  padding: 40px;
+  border: 2px solid;
+}
+.section-six {
+  height: 300px;
+  background-color: wheat;
+  display: block;
+  font-size: 100px;
+  padding: 70px;
+  text-align: center;
+}
+footer {
+  height:300px;
+  background-color: whitesmoke;
+  display: flex;
+}
+.facebook, .twitter, .instagram {
+  height: 50px;
+  width: 50px;
+}
+.footer-1, .footer-2, .footer-3, .footer-4 {
+  width: 25%;
+}
+.company, .contacts, .about2, .moreinfo {
+  padding: 30px;
+  font-size: 40px;
+  background-color: lightblue;
+}
+.fb, .tw, .ins {
+  text-indent: 90px;
+}
+
+
