@@ -159,5 +159,10 @@ footer {
 .fb, .tw, .ins {
   text-indent: 90px;
 }
+html {
+  color: #555;
+}
 
-
+body {
+  font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
+}
