@@ -8,6 +8,7 @@ header {
   padding: 20px;
   position: fixed;
   z-index: 10;
+  text-transform: uppercase;
 } 
 .lugertel {
   flex: 1;
